@@ -1,0 +1,238 @@
+.pop {
+	background-color: red;
+	color: white;
+	width: 100px;
+	height: 30px;
+	border-radius: 10px;
+	padding-top: none;
+	padding-bottom: none;
+	cursor: pointer;
+	margin-top: 25px;
+	margin-left: 17px;
+	
+}
+
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 55px;
+	margin-top: 45px;
+	font-family: sans-serif;
+}
+
+
+h4 {
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+
+.forex-trading-1 {
+	padding-top: 20px;
+	padding-bottom: none;
+	border-radius: 13px;
+	height: 400px;
+	width: 1200px;
+	margin-left: 150px;
+}
+
+
+.forex-trading-4 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 18px;
+	height: 300px;
+	width: 650px;
+	margin-left: 2px;
+}
+
+
+.forex-trading-5 {
+	padding-top: none;
+	padding-bottom: 10px;
+	border-radius: 18px;
+	height: 400px;
+	width: 650px;
+	margin-right: 25px;
+}
+
+
+.transparent {
+	color: white;
+	width: 1320px;
+	height: 350px;
+	background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+	position: center;
+	margin-top: 100px;
+	padding-top: none;
+	font-size: 17px;
+	font-family: sans-serif;
+	border-radius: 15px;
+	text-align: center;
+	margin-left: 7px;
+}
+
+
+
+.my-grid {
+	color: white;
+	font-family: sans-serif;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	padding-top: 10px;
+}
+
+.most2 {
+	margin-left: 13px;
+}
+
+
+.most1 {
+	
+}
+
+
+
+img {
+	max-width: 80%;
+	height: auto;
+	padding-top: 10px;
+	border-radius: 12px;
+}
+
+
+
+
+
+@media screen (max-width: 500px) {
+h1 {
+	color: red;
+	font-size: 1.5rem;
+}
+}
+
+
+
+
+
+.content {
+	max-width: 80%;
+	height: auto;
+	padding-top: 10px;
+	border-radius: 12px;
+}
+
+
+
+
+
+.neck-grid {
+	color: black;
+	font-size: 18px;
+	font-family: sans-serif;
+	display: grid;
+	grid-template-columns: 33.33% 33.33% 33.33%;
+	margin-top: none;
+	background-color:  white;
+	height: 350px;
+	width: 1350px;
+	text-align: center;
+}
+
+
+
+.nub {
+	margin-left: 2px;
+}
+
+
+.min {
+	width: 250px;
+	font: bolder;
+}
+
+
+.zip {
+	width: 300px;
+}
+
+.code {
+	margin-left: 8px;
+}
+
+.good {
+	width: 350px;
+}
+
+
+.plug {
+	margin-left: 8px;
+}
+
+.sleep {
+	background-color: black;
+	color: white;
+	height: 70px;
+	width: 1350px;
+}
+
+
+.medialinks {
+	font-size:  3.5rem;
+	margin-right: 6.30rem;
+	padding: 3px;
+	color: white;
+	cursor: pointer;
+	transition: all ease-in-out .4s;
+}
+
+
+.fa-whatsapp:hover {
+	color: green; 
+	transform: translateY(1.5);
+	z-index: 2;
+	
+}
+
+	
+.fa-square-instagram:hover {
+	color: crimson;
+	transform: translateY(1.5);
+	z-index: 2;
+}
+
+	
+.fa-square-twitter:hover {
+	color: blue;
+	transform: scale(1.3);
+	z-index: 2;	
+}
+
+.fa-envelope:hover {
+	color: purple; 
+	transform: scale(1.3);
+	z-index: 2;	
+}
+
+.fa-linkedin:hover {
+	color: blue;
+	transform: translateY(1.5);
+	z-index: 2;
+}
+
+
+
+.fa-facebook:hover {
+	color: green; 
+	transform: translateY(1.5);
+	z-index: 2;
+	
+}
+
+.phone {
+	font-size: 28px;
+	font-family: sans-serif;
+	margin-left: 500px;
+}
